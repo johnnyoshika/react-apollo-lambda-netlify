@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import LambdaDemo from './LambdaDemo';
+import GraphQLDemo from './GraphQLDemo';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <LambdaDemo />
+        <GraphQLDemo />
       </header>
     </div>
   );
