@@ -28,3 +28,7 @@ Add functions that export with the `handler` name inside `src/lambda` and it wil
 ## Deployment
 
 Push to master and it will be updated on Netlify: https://react-apollo-lambda-netlify.netlify.app/
+Also try:
+* https://react-apollo-lambda-netlify.netlify.app/.netlify/functions/hello
+* https://react-apollo-lambda-netlify.netlify.app/.netlify/functions/async-dadjoke
+* https://react-apollo-lambda-netlify.netlify.app/.netlify/functions/graphql
