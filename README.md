@@ -2,6 +2,8 @@
 
 Started with this Lambda starter kit: https://github.com/netlify/create-react-app-lambda
 
+More info on netlify-lambda: https://github.com/netlify/netlify-lambda
+
 ## Local Development
 
 ```bash
